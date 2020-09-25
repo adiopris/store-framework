@@ -27,7 +27,6 @@
       "flex-layout.row#qty-sku",
       "shipping-simulator",
       "buy-button"
-     
     ],
     "props": {
       "verticalAlign": "center",
@@ -38,7 +37,6 @@
     "children": [
       "sku-selector",
       "product-quantity"
-      
     ] 
   },
   "product-price": {
